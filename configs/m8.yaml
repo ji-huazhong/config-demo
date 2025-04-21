@@ -1,0 +1,10 @@
+defaults:
+  - model: m8_8m
+  - data: data_test
+  - trainer: grpo_train
+  - _self_
+
+actor:
+  model:
+    network:
+      num_layers: 14

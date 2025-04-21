@@ -1,0 +1,5 @@
+network:
+  use_mcore_models: true
+  num_layers: 28
+  hidden_size: 3584
+  ffn_hidden_size: 18944
